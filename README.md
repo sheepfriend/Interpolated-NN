@@ -13,10 +13,8 @@ To run inter.py and cis.py, use
     D: data dimension
 
 To reproduce the figures, use inter_plot_regre.py and inter_plot_tmp.py. The address should be modified in code
-"""
-model=PATH_TO_MODEL
-"""
 
+    model=PATH_TO_MODEL
 
 real_inter:
 To run real_inter.py, use
