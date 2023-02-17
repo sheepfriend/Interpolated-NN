@@ -4,6 +4,7 @@ The code reproduces the results in paper "Benefit of Interpolation in Nearest Ne
 Two folders "inter" and "inter_same_k":
 Each folder contains one regression model and two classification models.
 To run inter.py and cis.py, use
+
     python inter.py $GAMMA_NUM $LOG_N $D
     python cis.py $GAMMA_NUM $LOG_N $D
 
@@ -19,6 +20,7 @@ model=PATH_TO_MODEL
 
 real_inter:
 To run real_inter.py, use
+
     python real_inter.py $NAME $GAMMA_NUM
 
     NAME is in ['mnist_small','mnist','HTRU2','Credit','Abalone']
