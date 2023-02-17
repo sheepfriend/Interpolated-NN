@@ -23,4 +23,6 @@ To run real_inter.py, use
 
     NAME is in ['mnist_small','mnist','HTRU2','Credit','Abalone']
 
+Reference:
+Xing, Yue, Qifan Song, and Guang Cheng. "Benefit of interpolation in nearest neighbor algorithms." SIAM Journal on Mathematics of Data Science 4.2 (2022): 935-956.
 
